@@ -1,4 +1,4 @@
-#SQL exercise exploring results of olympic winter and summer games spanning from 2000-2016. 
+# SQL exercise exploring results of olympic winter and summer games spanning from 2000-2016. 
 
 **Joining Data 
 
