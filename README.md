@@ -11,10 +11,7 @@
 **Reporting**
 
 2. Create a query to generate the report below. 
-    a. Display the country name, 4-digit year, count of Nobel prize winners when that count is at least 1, and country size according to the following business rule:               
-               - large - population greater than 100 million 
-               - medium – population between 50 and 100 million 
-               - small – less than 50 million 
+    a. Display the country name, 4-digit year, count of Nobel prize winners when that count is at least 1, and country size according to the following business rule:             large - population greater than 100 million, medium – population between 50 and 100 million, small – less than 50 million 
     b. Sort the results so the country and year with the largest number of Nobel prize winners is at the top. 
     c. Export the results, and then open the file with Excel. Create a chart to effectively communicate the findings.
 
